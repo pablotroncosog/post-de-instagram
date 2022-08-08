@@ -1,0 +1,78 @@
+body
+{
+    margin: 0%;
+    background-color: black;
+}
+#contenedor {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column; 
+    padding: 20px;
+    margin: 0%;
+}
+#a {
+    background-color: white;
+    height: 70px;
+    width: 30%;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    display: flex;
+}  
+#b {
+    background-color: white;
+    height: 60%;
+    width: 30%;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+#c {
+    background-color: white; 
+    height: 200px;
+    width: 30%;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+img {
+    height: 100%;
+    width: 100%;
+}
+#d {
+    margin: 30px;
+}
+i { 
+    display: flex;
+    padding: 4px;
+    margin: 0;
+    font-size: 20px;
+} 
+
+#contenedor-supremo {
+    display: flex;
+}
+#chiquito {
+    width: 70px;
+    height: 70px;
+} 
+#w {
+    display: flex;
+    margin: 10px;
+}
+#w i {
+    display: flex;
+    align-items: flex-end;  
+    font-size: 30px;
+}
+.megusta {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+} 
+.p2 {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    color: rgb(155, 153, 153)
+}.p1 {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+} 
